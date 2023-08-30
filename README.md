@@ -1,5 +1,5 @@
 # CSPA
-** Cross-shaped Adversarial Patch Attack **     
+**Cross-shaped Adversarial Patch Attack**     
 *Yu Ran, Weijia Wang, Mingjie Li, Lin-Cheng, Li Yuan-Gen Wang and Li Jin*         
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
